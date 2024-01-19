@@ -1,0 +1,4 @@
+streamlit #for web app
+google-generativeai #for the api 
+python-dotenv #for putting the api in the file
+pdf2image #this will create the image into a pdf so the ai can scan it and give us response
